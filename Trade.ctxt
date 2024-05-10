@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Trade
+comment1.params=p\ v
+comment1.target=Trade(Player,\ Villager)
+comment2.params=
+comment2.target=int\ getPriceTrade()
+comment3.params=c1\ c2\ m\ sm
+comment3.target=java.lang.String\ makeEngagement(Character,\ Character,\ int,\ int)
+numComments=4

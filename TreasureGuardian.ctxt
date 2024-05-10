@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TreasureGuardian
+comment1.params=location\ m\ s\ wt
+comment1.target=TreasureGuardian(Location,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ printCharacter()
+numComments=3

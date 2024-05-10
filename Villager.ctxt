@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Villager
+comment1.params=location
+comment1.target=Villager(Location)
+comment2.params=
+comment2.target=int\ getPriceVillager()
+comment3.params=
+comment3.target=int\ getStrengthModifierVillager()
+comment4.params=
+comment4.target=void\ printCharacter()
+numComments=5

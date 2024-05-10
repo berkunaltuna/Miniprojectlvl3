@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ReceiveAdvice
+comment1.params=pl\ hl
+comment1.target=ReceiveAdvice(Player,\ Helper)
+comment2.params=
+comment2.target=java.lang.String\ getTreasureQuadrant()
+comment3.params=c1\ c2
+comment3.target=java.lang.String\ makeEngagement(Character,\ Character)
+numComments=4

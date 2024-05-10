@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=f1\ f2
+comment1.target=Fight(Fighter,\ Fighter)
+comment2.params=c1\ c2
+comment2.target=java.lang.String\ makeEngagement(Character,\ Character)
+numComments=3

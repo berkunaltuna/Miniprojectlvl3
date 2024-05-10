@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=location\ m\ s\ wt
+comment1.target=Player(Location,\ int,\ int,\ java.lang.String)
+comment2.params=direction\ loc
+comment2.target=boolean\ move(java.lang.String,\ Location[][])
+comment3.params=
+comment3.target=void\ printCharacter()
+comment4.params=
+comment4.target=void\ printAll()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Location
+comment1.params=
+comment1.target=Location()
+comment2.params=x\ y
+comment2.target=boolean\ setCoordinates(int,\ int)
+comment2.text=public\ boolean\ setCoordinates(int\ x,\ int\ y,\ int\ sizex,\ int\ sizey)\ {\r\n\ \ \ \ \ \ \ \ if(x<0\ |\ x>\=sizex)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\ if(y<0\ |\ y>\=sizey)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ this.x_coordinate\ \=\ x;\r\n\ \ \ \ \ \ \ \ \ \ \ \ this.y_coordinate\ \=\ y;\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment3.params=
+comment3.target=int\ getCoordinateX()
+comment4.params=
+comment4.target=int\ getCoordinateY()
+comment5.params=
+comment5.target=void\ setTaken()
+comment6.params=
+comment6.target=boolean\ getTaken()
+comment7.params=x\ y\ sizex\ sizey
+comment7.target=java.lang.String\ getQuadrant(int,\ int,\ int,\ int)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=message
+comment1.target=java.lang.String\ inputString(java.lang.String)
+comment2.params=pl\ tg\ character\ treasurequadrant
+comment2.target=boolean\ engageCharacters(Player,\ TreasureGuardian,\ java.util.ArrayList,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

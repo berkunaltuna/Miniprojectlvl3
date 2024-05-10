@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Helper
+comment1.params=location\ q
+comment1.target=Helper(Location,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTreasureLocationQuadrant()
+comment3.params=
+comment3.target=void\ printCharacter()
+numComments=4

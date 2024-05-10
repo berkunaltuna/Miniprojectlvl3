@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Engage
+comment1.params=c1\ c2
+comment1.target=Engage(Character,\ Character)
+comment2.params=c1\ c2
+comment2.target=java.lang.String\ makeEngagement(Character,\ Character)
+numComments=3

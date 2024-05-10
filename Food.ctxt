@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment2.params=el\ p
+comment2.target=Food(java.lang.String,\ int)
+comment3.params=el
+comment3.target=int\ getStrengthModifier(java.lang.String)
+comment4.params=el
+comment4.target=int\ getPrice(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEnergyLevel()
+numComments=6
