@@ -1,7 +1,5 @@
-﻿Student name:Berk Unaltuna
-Student number:200454256
+﻿README
 
-Please complete this README file for your level 3 mini-project submission.
 DESCRIPTION OF THE PROGRAM:
 This is an adventure game with 1 player character, 1 treasure guardian character, and several warrior, helper, villager characters. The purpose of the game is to find the treasure.
 The numbers of warrior, helper, and villager characters are equal to one another. The size of the game grid determines these numbers. 
